@@ -1,1 +1,3 @@
-# Example Repo
+# Example Repo for learning C language
+
+
